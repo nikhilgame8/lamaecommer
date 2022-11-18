@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lamaecommer/static/css/main.b81d1c4b.css",
+    "main.js": "/lamaecommer/static/js/main.8849c6c2.js",
+    "static/js/787.a2bf511c.chunk.js": "/lamaecommer/static/js/787.a2bf511c.chunk.js",
+    "index.html": "/lamaecommer/index.html",
+    "main.b81d1c4b.css.map": "/lamaecommer/static/css/main.b81d1c4b.css.map",
+    "main.8849c6c2.js.map": "/lamaecommer/static/js/main.8849c6c2.js.map",
+    "787.a2bf511c.chunk.js.map": "/lamaecommer/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81d1c4b.css",
+    "static/js/main.8849c6c2.js"
+  ]
+}
